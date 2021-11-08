@@ -1,1 +1,1 @@
-# wheather-location
+# weather-location
